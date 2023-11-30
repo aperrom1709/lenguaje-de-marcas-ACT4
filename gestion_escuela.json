@@ -1,0 +1,63 @@
+{
+    "escuela": "IES los remedios",
+    "profesores": [
+      {
+        "id": 1,
+        "nombre": "juanfran ",
+        "edad": 40,
+        "asignaturas": [
+          {
+            "nombre": "geografia",
+            "creditos": 8
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Vanessa",
+        "edad": 33,
+        "asignaturas": [
+          {
+            "nombre": "ingles",
+            "creditos": 17
+          },
+          {
+            "nombre": "tutoria",
+            "creditos": 16
+          }
+        ]
+      }
+    ],
+    "estudiantes": [
+      {
+        "id": 3,
+        "nombre": "Marcos",
+        "edad": 17,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 8
+          },
+          {
+            "asignatura": "Entorno de desarollo",
+            "calificacion": 2
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "nombre": "Alvaro",
+        "edad": 18,
+        "asignaturas_cursadas": [
+          {
+            "asignatura": "Programación",
+            "calificacion": 6
+          },
+          {
+            "asignatura": "Base de datos",
+            "calificacion": 5
+          }
+        ]
+      }
+    ]
+  }

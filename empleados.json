@@ -1,0 +1,26 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Alvaro Pérez",
+        "cargo": "mecanico",
+        "salario": 100000,
+        "salario2": 50000
+      },
+      {
+        "id": 2,
+        "nombre": "Juan Rodríguez",
+        "cargo": "chapista",
+        "salario": 600000,
+        "salario2":6124358
+        
+      },
+      {
+        "id": 3,
+        "nombre": "Pirri",
+        "cargo": "cocntable",
+        "salario": 80000,
+        "salario2": 34444
+      }
+    ]
+  }
